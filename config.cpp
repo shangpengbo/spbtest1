@@ -1,5 +1,6 @@
 #include "config.h"
 
+//spb add
 //文件夹路径检查 1:已存在 0:创建成功 -1:创建失败
 int CheckConfDir(char *lpPath)
 {
